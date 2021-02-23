@@ -1,5 +1,5 @@
 # Hamid-Abdellaoui
-my official portofolio you can access it via the link 
+my portofolio you can access it via the link bellow :
 http://hamidabdellaoui.netlify.app/
 
 
